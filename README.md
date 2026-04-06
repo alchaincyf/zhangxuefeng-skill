@@ -310,6 +310,25 @@ MIT — 随便用，随便改，随便蒸馏。
 
 ---
 
+
+
+---
+
+## 关于作者
+
+**花叔 Huashu** — AI Native Coder，独立开发者，代表作：小猫补光灯（AppStore 付费榜 Top1）
+
+| 平台 | 链接 |
+|------|------|
+| 🌐 官网 | [bookai.top](https://bookai.top) · [huasheng.ai](https://www.huasheng.ai) |
+| 𝕏 Twitter | [@AlchainHust](https://x.com/AlchainHust) |
+| 📺 B站 | [AI进化论-花生](https://space.bilibili.com/14097567) |
+| ▶️ YouTube | [@Alchain](https://www.youtube.com/@Alchain) |
+| 📕 小红书 | [花生](https://www.xiaohongshu.com/user/profile/5abc6f17e8ac2b109179dfdf) |
+| 💬 公众号 | 微信搜「花叔」或扫码关注 ↓ |
+
+<img src="wechat-qrcode.jpg" alt="公众号二维码" width="360">
+
 <div align="center">
 
 *人生真好玩儿，下辈子还来。*
