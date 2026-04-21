@@ -2,6 +2,12 @@
 
 # 张雪峰.skill
 
+<p align="center">
+  <img src="assets/hero.gif" alt="zhangxuefeng-skill Hero Animation" />
+  <br/>
+  <sub>动画由 <a href="https://github.com/alchaincyf/huashu-design">huashu-design</a> skill 制作</sub>
+</p>
+
 > *「社会就是一个大筛子，用学历筛孩子，用房子筛父母，用工作筛家庭。」*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
